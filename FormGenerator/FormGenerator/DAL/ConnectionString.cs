@@ -9,6 +9,7 @@ namespace DAL
 {
     public class ConnectionString
     {
+
         /// <summary>
         /// Get database address
         /// </summary>
